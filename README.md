@@ -65,3 +65,5 @@ python snake_run.py
 See `requirements.txt` for full list of dependencies.
 
 
+## comments : 
+  the sounds are not working yet . 
